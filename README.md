@@ -68,3 +68,7 @@ Here is an example of what an equipment.config file would look like with one ent
 ==================================
 You must acquire and register a client certificate in the Windows Certificate Store in order to run this script successfully.
 You may add the certificate together with it's private key to the Personal directory in either the Local User or Local Machine store.
+
+4. Windows Requirements
+==================================
+Powershell version 4.0 or higher.
